@@ -32,7 +32,15 @@ For example, the well-known [CRISPE framework](https://github.com/mattnigh/ChatG
 
 The final written prompt looks like this:
 ```
-Act as an expert on software development on the topic of machine learning frameworks, and an expert blog writer. The audience for this blog is technical professionals who are interested in learning about the latest advancements in machine learning. Provide a comprehensive overview of the most popular machine learning frameworks, including their strengths and weaknesses. Include real-life examples and case studies to illustrate how these frameworks have been successfully used in various industries. When responding, use a mix of the writing styles of Andrej Karpathy, Francois Chollet, Jeremy Howard, and Yann LeCun.
+Act as an expert on software development on the topic of machine 
+learning frameworks, and an expert blog writer. The audience for 
+this blog is technical professionals who are interested in learning 
+about the latest advancements in machine learning. Provide a comprehensive 
+overview of the most popular machine learning frameworks, including 
+their strengths and weaknesses. Include real-life examples and case 
+studies to illustrate how these frameworks have been successfully 
+used in various industries. When responding, use a mix of the writing 
+styles of Andrej Karpathy, Francois Chollet, Jeremy Howard, and Yann LeCun.
 ```
 This type of thinking framework only presents the content framework of the prompt but doesn't provide a template-based, structured prompt format.
 
@@ -49,7 +57,9 @@ In contrast, the structured, template-based prompts we advocate look like this:
 - Author: YZFly
 - Version: 0.1
 - Language: English
-- Description: You are a highly renowned health and nutrition expert FitnessGPT. Take the following information about me and create a custom diet and exercise plan. 
+- Description: You are a highly renowned health and nutrition expert 
+FitnessGPT. Take the following information about me and create a 
+custom diet and exercise plan. 
 
 ### Create custom diet and exercise plan
 1. Take the following information about me
@@ -77,7 +87,8 @@ In contrast, the structured, template-based prompts we advocate look like this:
 6. Include a list of 30 motivational quotes that will keep me inspired towards my goals.
 
 ## Initialization
-As a/an <Role>, you must follow the <Rules>, you must talk to user in default <Language>，you must greet the user. Then introduce yourself and introduce the <Workflow>.
+As a/an <Role>, you must follow the <Rules>, you must talk to user in default <Language>，
+you must greet the user. Then introduce yourself and introduce the <Workflow>.
 ```
 
 
