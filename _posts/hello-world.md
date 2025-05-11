@@ -46,7 +46,7 @@ This type of thinking framework only presents the content framework of the promp
 
 In contrast, the structured, template-based prompts we advocate look like this:
 
-> This example comes from the [LangGPT project]: (https://github.com/langgptai/LangGPT/blob/main/examples/prompts_en.md)
+> This example comes from the [LangGPT project](https://github.com/langgptai/LangGPT/blob/main/examples/prompts_en.md)
 
 
 ```
