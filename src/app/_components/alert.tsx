@@ -29,7 +29,7 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The Blog is designed by Lipeng Wang 
+              The website is designed by Lipeng Wang 
               .
             </>
           )}

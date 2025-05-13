@@ -1,19 +1,76 @@
 ---
-title: "Preview Mode for Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/preview/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+title: "The Ethical Use of AI in Classrooms"
+excerpt: "Explore the ethical considerations for integrating AI tools like ChatGPT in educational settings. Learn how to establish responsible policies, address concerns like plagiarism and bias, and promote critical thinking."
+coverImage: "/assets/blog/preview/cover.png"
+date: "2025-05-10T09:00:00.000Z"
 author:
-  name: Joe Haddad
+  name: Sonaal Rawat
   picture: "/assets/blog/authors/joe.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/preview/cover.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+# The Ethical Use of AI in Classrooms
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+AI tools like ChatGPT are popping up everywhere—even in our classrooms. Some of us use them to get ideas for essays, while some teachers use them to help plan lessons. AI can definitely make schoolwork easier, but that doesn’t mean we should use it without thinking. The way we use AI really matters.
 
-## Lorem Ipsum
+## Key Ethical Concerns
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+### Copying Isn’t Learning
+
+Let’s be honest—it’s super easy to type a question into ChatGPT and copy the answer. But just because it saves time doesn’t mean it’s the right move. When we let AI do all the work, we’re not actually learning anything. Plus, it’s basically the same as cheating.
+Instead, try this:
+
+- Use AI to get ideas or fix grammar, but write your own work
+- Ask your teacher what’s okay and what’s not when it comes to AI
+
+
+### AI Can Be Biased
+
+AI gets its info from the internet, and not everything online is fair or accurate. That means AI can sometimes give biased answers or miss important points—like only showing one side of a story.
+What you can do:
+
+- Don’t assume AI is always right
+- Double-check stuff with real sources, like books or trusted websites
+
+### Don’t Let AI Do All the Thinking
+
+If we start using AI for every single thing, we stop thinking for ourselves. And AI isn’t actually smart—it just predicts what to say based on patterns in data.
+So, use it as a tool, not a crutch. Think of AI like a helper, not a replacement for your brain.
+
+
+### Be Careful with Personal Info
+
+Typing private stuff like your full name, age, or where you live into AI isn’t safe. You never really know where that info ends up.
+Just to be safe:
+
+- Don’t share personal details with AI
+- Stick to tools your school recommends
+
+## A Common Example
+Here’s a common example: you’re writing an essay.
+Let's take a common example: a student writing an essay. There's a big difference between AI-generated essays and AI-assisted work.
+
+- **Unethical:** Copying an entire AI-written essay and turning it in
+- **Responsible:** Using AI to brainstorm ideas, outline your points, or check grammar—and writing the rest yourself
+
+**It’s kind of like using a calculator. You still need to understand how to solve the problem—you just get a little help.**
+
+
+## Quick Guide to Using AI
+
+**✅ Do Use AI To...**
+
+- Get feedback on drafts
+- Brainstorm ideas
+- Check grammar
+
+**❌ Don't Use AI To...**
+
+- Submit full AI-written work
+- Avoid doing the thinking
+- Copy answers for homework
+
+## Conclusion
+
+AI can be super useful if we use it the right way. But it’s not a shortcut for learning. If we stay honest, think critically, and use AI as a support (not a cheat), it can actually help us become better students.

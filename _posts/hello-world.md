@@ -1,18 +1,18 @@
 ---
-title: "Structured Prompting: A Comprehensive Guide to Enhancing LLM Interactions"
-excerpt: "Explore how structured prompts can dramatically improve your interactions with large language models. This guide covers the fundamentals, advantages, and limitations of structured prompting techniques, along with crucial concepts like temperature settings and hallucination management."
-coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2025-05-10T09:00:00.000Z"
+title: "Structured prompts: A Comprehensive Guide to Enhancing LLMs Interactions"
+excerpt: "Explore how structured prompts can dramatically improve your interactions with large language models. This guide covers the fundamentals, advices and examples of structured prompts."
+coverImage: "/assets/blog/hello-world/cover.png"
+date: "2025-05-14T09:00:00.000Z"
 author:
   name: Lipeng Wang
-  picture: "/assets/blog/authors/tim.jpeg"
+  picture: "/assets/blog/authors/lipeng.jpg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/blog/hello-world/cover.png"
 ---
 
 # Introduction
 
-In the rapidly evolving landscape of AI language models, the way we communicate with these systems has become just as important as the technology itself. This guide explores the emerging concepts of structured prompts, temperature, hallucinations-The students can significantly enhance your interactions with models like ChatGPT, Claude, and other large language models (LLMs).
+In the rapidly evolving landscape of AI language models, the way we communicate with these systems has become just as important as the technology itself. This guide explores the emerging concepts of structured prompts-The students can significantly enhance your interactions with models like ChatGPT, Claude, and other large language models (LLMs).
 
 ## What Are Structured Prompts?
  The articles we write daily and the books we read all use titles, subtitles, paragraphs, sentences, and other grammatical structures. **The idea of structured prompts means writing prompts as you would write an article.**
@@ -191,31 +191,5 @@ You can explicitly incorporate temperature generation parameters in your structu
 
 While not all interfaces allow direct temperature control, including this guidance helps calibrate the model's "internal temperature" toward your desired outcome.
 
-## What Is Hallucinations?
 
-"Hallucination" refers to the phenomenon where AI models generate information that appears plausible but is factually incorrect or entirely fabricated. Understanding this tendency is critical for AI interactions.
 
-## Types of Hallucinations
-
-1. **Confabulations**: The model invents specific details (dates, names, statistics) that seem plausible but are false
-2. **Conceptual errors**: The model creates coherent but fundamentally incorrect explanations or connections
-3. **Source fabrication**: The model attributes information to nonexistent or incorrect sources
-
-## Reducing Hallucinations with Structured Prompts
-
-Structured prompts can significantly reduce hallucinations through several mechanisms:
-
-```
-- **Rules:
-  - Only state facts you are certain about
-  - Clearly indicate when you are speculating or uncertain
-  - Do not invent specific details such as dates, statistics, or quotes
-  - Cite sources whenever possible
-  - Say "I don't have enough information" rather than guessin
-
-- **Verification Process:
-  - Present your initial response
-  - Identify claims that require verification
-  - Evaluate confidence in each claim 
-  - Revise any low-confidence claim to be more cautious
-```
