@@ -5,7 +5,7 @@ coverImage: "/assets/blog/preview/cover.png"
 date: "2025-05-10T09:00:00.000Z"
 author:
   name: Sonaal Rawat
-  picture: "/assets/blog/authors/joe.jpeg"
+  picture: "/assets/blog/authors/sonaal.jpg"
 ogImage:
   url: "/assets/blog/preview/cover.png"
 ---

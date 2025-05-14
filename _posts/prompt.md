@@ -1,5 +1,5 @@
 ---
-title: "How to Creat High-Quality Prompts"
+title: "How to Create High-Quality Prompts"
 excerpt: "This guide helps you create high-quality prompts for large language models, using diagrams. It coveres prompt formats, cost control, few-shot and in-context learning skills, and more."
 coverImage: "/assets/blog/prompt/cover.png"
 date: "2025-05-13T09:00:00.000Z"
@@ -9,8 +9,6 @@ author:
 ogImage:
   url: "/assets/blog/prompt/cover.png"
 ---
-
-# How to creat high-quality prompts
 
 ## How Do Large Language Models Predict the Next Word?
 

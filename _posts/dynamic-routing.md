@@ -1,11 +1,11 @@
 ---
 title: "AI Hallucinations"
-excerpt: "Learn how to identify and address AI hallucinations in educational settings. This comprehensive guide helps teachers differentiate between factual and fabricated content in AI outputs with practical examples and classroom strategies."
+excerpt: "Learn how to identify and address AI hallucinations in educational settings. This comprehensive guide helps students differentiate between factual and fabricated content in AI outputs with practical example."
 coverImage: "/assets/blog/dynamic-routing/cover.png"
 date: "2025-05-12T09:00:00.000Z"
 author:
   name: Varul Demta
-  picture: "/assets/blog/authors/jj.jpeg"
+  picture: "/assets/blog/authors/varul.jpg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.png"
 ---
