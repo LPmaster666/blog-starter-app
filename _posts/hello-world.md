@@ -5,7 +5,7 @@ coverImage: "/assets/blog/hello-world/cover.png"
 date: "2025-05-14T09:00:00.000Z"
 author:
   name: Lipeng Wang
-  picture: "/assets/blog/authors/lipeng.jpg"
+  picture: "/assets/blog/authors/lp.jpg"
 ogImage:
   url: "/assets/blog/hello-world/cover.png"
 ---
@@ -13,6 +13,30 @@ ogImage:
 # Introduction
 
 In the rapidly evolving landscape of AI language models, the way we communicate with these systems has become just as important as the technology itself. This guide explores the emerging concepts of structured prompts-The students can significantly enhance your interactions with models like ChatGPT, Claude, and other large language models (LLMs).
+
+## Prompt Misconceptions
+
+Let's start with a broad discussion of prompt misconceptions.
+Many people think a prompt is just something you get from various platforms, used as the opening instruction for ChatGPT, like this:
+
+> The following prompt is from the well-known [ChatGPT Chinese Tuning Guide project](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+
+```
+text(Translated):
+I hope you can take on the role of a translator, proofreader, and improver.
+You will communicate with me in any language, recognize the language, 
+translate it, and reply in more polished and refined English. 
+Please replace simple words and sentences with more elegant and advanced expressions,
+ensuring the meaning remains unchanged but the style is more literary. 
+Only reply with the improved and refined parts, do not explain. 
+My first sentence is "how are you?", please translate it.
+```
+
+Such opening prompts for conversations often require prompt engineers to invest a lot of time and effort to create and iterate. Since these prompts work at the system level, and for API or application developers, these prompts are used in the System section, we will refer to them as **System Prompts** (system-level prompts or opening prompts).
+
+Because many tutorials, articles, and prompt sharing platforms share these prompts, many people's understanding of prompts stays at the System Prompt level. **Understanding prompt as only System Prompt, or even equating prompt with System Prompt, is a misconception.**
+
+**System Prompt** is important, especially for prompt engineers. But from the user's perspective, especially for multi-turn tasks, simply using a good System Prompt is far from enough for large language models.
 
 ## What Are Structured Prompts?
  The articles we write daily and the books we read all use titles, subtitles, paragraphs, sentences, and other grammatical structures. **The idea of structured prompts means writing prompts as you would write an article.**
